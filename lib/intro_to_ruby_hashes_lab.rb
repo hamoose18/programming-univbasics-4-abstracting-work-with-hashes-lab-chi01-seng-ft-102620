@@ -1,8 +1,6 @@
-def my_hash_creator(key, value)
-1 = :name
-2 = "Grace Hopper"
+def my_hash_creator(key = 1, value = 2)
+
 {name: "Grace Hopper"}
-  
 end
 
 def read_from_hash(hash, key)
