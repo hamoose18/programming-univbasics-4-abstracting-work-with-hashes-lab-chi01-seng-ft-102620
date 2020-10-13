@@ -1,4 +1,6 @@
 def my_hash_creator(key, value)
+1 = :name
+2 = "Grace Hopper"
 {name: "Grace Hopper"}
   
 end
