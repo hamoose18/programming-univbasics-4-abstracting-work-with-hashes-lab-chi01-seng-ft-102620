@@ -1,4 +1,5 @@
-def my_hash_creator(:name, "George")
+def my_hash_creator(key, value)
+
   
 end
 
